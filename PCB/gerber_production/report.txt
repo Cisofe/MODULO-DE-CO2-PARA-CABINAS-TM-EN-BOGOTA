@@ -1,0 +1,10 @@
+Plotted to 'C:\Users\vivi_\Módulo de CO2 de buses TM\Modulo CO2 de bus TM\gerber_production\Modulo CO2 de bus TM-F_Cu.gbr'.
+Plotted to 'C:\Users\vivi_\Módulo de CO2 de buses TM\Modulo CO2 de bus TM\gerber_production\Modulo CO2 de bus TM-B_Cu.gbr'.
+Plotted to 'C:\Users\vivi_\Módulo de CO2 de buses TM\Modulo CO2 de bus TM\gerber_production\Modulo CO2 de bus TM-B_Paste.gbr'.
+Plotted to 'C:\Users\vivi_\Módulo de CO2 de buses TM\Modulo CO2 de bus TM\gerber_production\Modulo CO2 de bus TM-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\vivi_\Módulo de CO2 de buses TM\Modulo CO2 de bus TM\gerber_production\Modulo CO2 de bus TM-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\vivi_\Módulo de CO2 de buses TM\Modulo CO2 de bus TM\gerber_production\Modulo CO2 de bus TM-F_Mask.gbr'.
+Plotted to 'C:\Users\vivi_\Módulo de CO2 de buses TM\Modulo CO2 de bus TM\gerber_production\Modulo CO2 de bus TM-B_Mask.gbr'.
+Plotted to 'C:\Users\vivi_\Módulo de CO2 de buses TM\Modulo CO2 de bus TM\gerber_production\Modulo CO2 de bus TM-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\vivi_\Módulo de CO2 de buses TM\Modulo CO2 de bus TM\gerber_production\Modulo CO2 de bus TM-job.gbrjob'.
+Info: Done.

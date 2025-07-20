@@ -1,0 +1,116 @@
+(footprint "JST_XH_2P_MALE_7.4x5.75mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 1.25 -4 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "15b4c3af-424d-4c5f-90ca-9234b0956e0d")
+		(effects
+			(font
+				(size 1.77 1.2)
+				(thickness 0.25)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "JST_XH_2P_MALE_7.4x5.75mm"
+		(at 1.25 6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "8f501849-9def-4b4a-8233-5531b5a831bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2032e7e9-bdc5-4840-affe-fc09b233333a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd78e9e4-8f3c-45ba-b312-5aa69fb8a865")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -2.45 -2.875)
+		(end 4.95 2.875)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "fdcff5a3-0898-4085-83e8-b3ac02578cf2")
+	)
+	(fp_text user "JST_XH"
+		(at -3 2.5 90)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b8a3e8db-81d8-4567-ac6d-cd7957934a4a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0.525)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(solder_mask_margin 0.16)
+		(clearance 0.35)
+		(thermal_bridge_angle 45)
+		(uuid "a2b921d5-0c63-4cb7-afd6-0b50fa16672c")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0.525)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.16)
+		(clearance 0.35)
+		(uuid "d454f819-d225-4647-a0fa-6698b875dc2b")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/B2B-XH-A-LF--SN---3DModel-STEP-269445.STEP"
+		(offset
+			(xyz 1.26 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
