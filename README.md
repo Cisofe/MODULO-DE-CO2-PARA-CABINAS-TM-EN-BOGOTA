@@ -1,2 +1,4 @@
 # MODULO-DE-CO2-PARA-CABINAS-TM-EN-BOGOTA
-Proyecto de ingeniería
+## Proyecto de ingeniería
+
+El módulo de CO2 para buses TM es un prototipo ideado para proporcionar datos para análisis y control de la calidad del aire en las cabinas de buses troncales del sistema BRT de la ciudad de Bogotá, Colombia. El dispositivo permite que los estadísticos y analistas de datos obtengan información de la temperatura, humedad y concentración de CO2 en el interior de los vehículos, además de automatizar el funcionamiento del sistema de ventilación de acuerdo a los valores de concentración de CO2. Las personas que conmutan a diario en los buses también podrán acceder a datos recientes de la calidad del aire en su cabina, lo que busca proporcionar más transparencia y aumentar el interés de los usuarios en el tema. Asimismo, esto podría incidir en el incremento de estudios sobre la aglomeración de TransMilenio y las condiciones del aire en sistemas de transporte masivo público y cómo influyen en el pasajero.
